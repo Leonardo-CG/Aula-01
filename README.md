@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://leonardo-cg.github.io/nlw-esports-explorer-extra/)
+[Clique aqui para acessar](https://leonardo-cg.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
